@@ -3,7 +3,7 @@
     "name": "rn-social-project",
     "slug": "rn-social-project",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
